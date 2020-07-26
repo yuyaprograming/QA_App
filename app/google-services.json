@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348535986425",
+    "firebase_url": "https://qaapp-e4dba.firebaseio.com",
+    "project_id": "qaapp-e4dba",
+    "storage_bucket": "qaapp-e4dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348535986425:android:3e014d7fc60ec8673b6a28",
+        "android_client_info": {
+          "package_name": "jp.techacademy.date.yuuya.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348535986425-631psoqtl2vedf172a4fmoelonmj0f9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_qHgUNWj1vHRhkEec2Hy_d93yMlgJ6rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348535986425-631psoqtl2vedf172a4fmoelonmj0f9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
